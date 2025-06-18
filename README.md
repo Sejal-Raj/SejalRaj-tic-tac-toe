@@ -1,3 +1,3 @@
 # SejalRaj-tic-tac-toe
 
-this is game for kids.
+this is a game made for kids.
